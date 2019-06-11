@@ -23,3 +23,9 @@ describe '#parrot' do
     expect(phrase).to eq("Pretty bird!")
   end
 end
+
+def parrot(name = "Squawk!")
+  puts "#{name}"
+  return name
+end
+
