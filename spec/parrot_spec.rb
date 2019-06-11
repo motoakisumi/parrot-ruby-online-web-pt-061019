@@ -24,4 +24,7 @@ describe '#parrot' do
   end
 end
 
-def 
+def parrot(name = "Squawk")
+  puts name
+end
+
