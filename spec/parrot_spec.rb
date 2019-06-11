@@ -24,7 +24,7 @@ describe '#parrot' do
   end
 end
 
-def #parrot(name = "Squawk!")
+def parrot(name = "Squawk!")
   puts "#{name}"
 end
 
