@@ -25,6 +25,6 @@ describe '#parrot' do
 end
 
 def parrot(name = "Squawk")
-  puts name
+  puts ""name
 end
 
